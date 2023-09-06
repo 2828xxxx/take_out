@@ -13,8 +13,8 @@ import java.sql.SQLIntegrityConstraintViolationException;
 /**
  * @ClassName GlobalExceptionHandler
  * @Description
- * @Author WangZhisheng
- * @Date 10:31 2023/5/1
+ * @Author TangJunjie
+ * @Date 10:31 2023/9/1
  * @Version 11.0.15
  */
 @ControllerAdvice(annotations = {RestController.class, Controller.class})  //处理有这两个注解中出现的异常

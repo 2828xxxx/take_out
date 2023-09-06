@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * @ClassName AddressBookMapper
  * @Description
- * @Author WangZhisheng
+ * @Author TangJunjie
  * @Date 10:25 2023/5/2
  * @Version 11.0.15
  */

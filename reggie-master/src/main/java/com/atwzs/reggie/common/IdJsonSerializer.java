@@ -10,8 +10,8 @@ import java.nio.file.LinkOption;
 /**
  * @ClassName IdJsonSerializer
  * @Description
- * @Author WangZhisheng
- * @Date 12:06 2023/5/1
+ * @Author TangJunjie
+ * @Date 12:06 2023/9/1
  * @Version 11.0.15
  */
 public class IdJsonSerializer extends JsonSerializer<Long> {

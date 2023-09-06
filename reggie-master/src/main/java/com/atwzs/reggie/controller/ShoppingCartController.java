@@ -15,8 +15,8 @@ import java.util.List;
 /**
  * @ClassName ShoppingCartController
  * @Description
- * @Author WangZhisheng
- * @Date 11:18 2023/5/2
+ * @Author TangJunjie
+ * @Date 11:18 2023/9/2
  * @Version 11.0.15
  */
 @RequestMapping("/shoppingCart")
