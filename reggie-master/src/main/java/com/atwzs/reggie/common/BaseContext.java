@@ -3,8 +3,8 @@ package com.atwzs.reggie.common;
 /**
  * @ClassName BaseContext
  * @Description ThreadLocal的工具类
- * @Author WangZhisheng
- * @Date 12:34 2023/5/1
+ * @Author TangJunjie
+ * @Date 12:34 2023/9/1
  * @Version 11.0.15
  */
 public class BaseContext {
